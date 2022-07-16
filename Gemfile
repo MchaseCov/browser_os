@@ -40,6 +40,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem 'turbo-rails'
+gem 'stimulus-rails'
 
 # Use vite for javascript delivery
 gem 'vite_rails'
