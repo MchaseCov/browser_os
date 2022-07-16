@@ -2,5 +2,8 @@
   "devDependencies": {
     "vite": "^3.0.0",
     "vite-plugin-ruby": "^3.1.2"
+  },
+  "dependencies": {
+    "@hotwired/turbo-rails": "^7.1.3"
   }
 }
